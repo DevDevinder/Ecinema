@@ -1,0 +1,89 @@
+body {
+  background: url(img/Background_3.jpg) no-repeat;
+  background-size: cover, 100%;
+  background-repeat: no-repeat;
+}
+
+nav{
+	font-family: "Lucida Console", Lucida, Monospace;
+	font-size: 18px;
+	background-size: cover;
+	color:##688EA6 !important;
+}
+
+
+p{
+	
+	font-family: "Lucida Console", Lucida, Monospace;
+	font-size: 18px;
+	background-size: cover;
+	color: #ffffff;
+}
+
+.navbar-brand{
+	font-family: "Lucida Console", Lucida, Monospace;
+	font-size: 25px;
+	background-size: cover;
+}
+.card{
+	
+	background-color:##688EA6;
+}
+
+label{
+	color:white;
+}
+
+input[type=text],[type=password],[type=email],[type=number]{
+border-style: solid;
+border-width: 3px;
+background-color: black;
+color: white;
+}
+
+input[type=submit]{
+	background-color: #D93D04;
+	border: 2px solid #F2CB05;
+}
+
+.btn{
+	background-color: #325A73 ;
+	border: 1px solid #F2CB05;
+}
+
+.btn:hover {
+  background-color: #F2A30F;
+  border: 1px solid #F2CB05;
+}
+
+h1{
+	color:white;
+}
+
+ul {
+  display: block;
+  color: white;
+  text-align: center;
+  padding-left: 20px;
+  text-decoration: none;
+}
+.display-1{
+	color:white;
+}
+.form-check-label{
+	color:black;
+}
+.rate{
+	color:back;
+}
+.mov_title{
+color:black;
+}
+
+a[id='btn btn-primary btn-block']{
+	background-color: #D93D04;
+	border: 2px solid #F2CB05;
+}
+
+
+
